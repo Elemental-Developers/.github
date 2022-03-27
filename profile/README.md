@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hello there 👋
 
-Welcome to our organization. We are a group of young programmers with the goal of always delivering the best possible software and brilliant ideas that they can always be adding to our entire community.
+Welcome to our organization. We are a group of young and dreamers programmers with the goal of always delivering the best possible software and brilliant ideas that can always be adding to our entire community.
 
 ## Since 2022: Working on inspiring ideas
 We aim to maintain maximum transparency and loyalty with those who accompany us, and you can accompany us in our communication networks!
@@ -11,9 +11,11 @@ We aim to maintain maximum transparency and loyalty with those who accompany us,
 
 ✨ *Our social medias!*
 - [Discord]()
-- [Twitter]()
-- [Linkedin](https://www.linkedin.com/company/elemental-developers)
 - [Instagram](https://instagram.com/)
+- [Linkedin](https://www.linkedin.com/company/elemental-developers)
+- [Twitter]()
+- [Website]()
 
 ---
-### We will be very happy with you by our side! <3
+
+### We will be very happy with you by our side! ❤
