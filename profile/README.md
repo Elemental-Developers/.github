@@ -16,4 +16,4 @@ We aim to maintain maximum transparency and loyalty with those who accompany us,
 - [Instagram](https://instagram.com/)
 
 ---
-### <center>We will be very happy with you by our side! <3</center>
+### We will be very happy with you by our side! <3
