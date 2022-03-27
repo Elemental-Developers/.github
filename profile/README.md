@@ -10,7 +10,7 @@ We aim to maintain maximum transparency and loyalty with those who accompany us,
 </div>
 
 ✨ *Our social medias!*
-- [Discord](https://discord.gg/KGGBC2NeRZ:target="_blank")
+- [Discord](https://discord.gg/KGGBC2NeRZ)
 - [Instagram](https://instagram.com/)
 - [Linkedin](https://www.linkedin.com/company/elemental-developers)
 - [Twitter](https://twitter.com/)
